@@ -1,0 +1,7 @@
+A collection of R packages by Matias Piipari (mp4@sanger.ac.uk / matias.piipari@gmail.com).
+
+args: command-line argument parsing utility package for R
+
+xms: XMS sequence motif set file format parsing
+
+nmica: NestedMICA integration package
