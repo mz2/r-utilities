@@ -1,0 +1,9 @@
+Package: args
+Type: Package
+Title: Parses command line arguments
+Version: 0.0.1
+Date: 2007-11-12
+Author: Matias Piipari
+Maintainer: Matias Piipari <mp4@sanger.ac.uk>
+Description: Parses command line arguments, and infers the type of argument given (e.g. R CMD BATCH --args x=12 y=foo z=TRUE)
+License: GPL v 2

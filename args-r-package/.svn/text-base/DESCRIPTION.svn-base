@@ -1,0 +1,9 @@
+Package: args
+Type: Package
+Title: Parses command line arguments
+Version: 0.0.1
+Date: 2007-11-12
+Author: Matias Piipari
+Maintainer: Matias Piipari <mp4@sanger.ac.uk>
+Description: Parses command line arguments of form x=y or x=y,z,... or x=y;z;...
+License: GPL v 2

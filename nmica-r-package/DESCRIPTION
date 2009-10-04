@@ -1,0 +1,9 @@
+Package: nmica
+Type: Package
+Title: NestedMICA related summary statistic and graph plotting functions mainly
+Version: 1.0
+Date: 2007-11-15
+Author: Matias Piipari
+Maintainer: Matias Piipari <mp4@cam.ac.uk>
+Description: ...
+License: GPL v2.1
