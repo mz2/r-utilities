@@ -1,4 +1,4 @@
-function (pwm, ic.scale = TRUE) 
+`plot.seqlogo` <- function (pwm, ic.scale = TRUE) 
 {
     if (class(pwm) == "pwm") {
         pwm <- pwm@pwm
